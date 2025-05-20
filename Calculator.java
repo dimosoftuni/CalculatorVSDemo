@@ -7,7 +7,7 @@ public class Calculator {
 
     // Subtracts second number from first
     public double subtract(double a, double b) {
-        return a - b - f;
+        return a - b - f - fff;
     }
 
     // Multiplies two numbers
